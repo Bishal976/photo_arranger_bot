@@ -1,5 +1,5 @@
 # photo_arranger_bot :framed_picture: :robot: :framed_picture:
-A pyton programe which arranges the users photos into different folders as per location of photos clicked
+A python program which arranges the users photos into different folders as per location of photos clicked
 This python program arranges the photos present in a file into different files based on the location they have been click!
 
 ###### this bot can even be modified for arranging different type of photos with different names
